@@ -1,5 +1,5 @@
 # microservices
- Prerequisite  -  Tech Stack - Java 8 version, Maven 3 and above , RabbitMQ,Zipkin.
+ Prerequisite  -  Tech Stack - Java 8 version, Maven 3 and above , RabbitMQ,Zipkin, Docker.
 Spirng Boot and Cloud for Microservices
 Microservice repository has multiple services.
 User MS has multiple functionality like  api validation,user registration , login , Web secutity , Authentication and Authorization, Feign Client for microservice communication , 
